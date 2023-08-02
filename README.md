@@ -2,7 +2,7 @@
 
 Submitted by: **Sy Traore**
 
-**Random Background** is an app that displays user name, college name and dream job. The app also change the background color at the click of a button.
+**Random Background** is an app that displays user name, college name(label and image view were used) and dream job. The app also change the background color at the click of a button.
 
 Time spent: **2** hours spent in total
 
@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/Pj2uGFK.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
