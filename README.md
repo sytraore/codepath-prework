@@ -1,4 +1,4 @@
-# Prework - *Name of App Here*
+# Prework - *Random Background*
 
 Submitted by: **Sy Traore**
 
